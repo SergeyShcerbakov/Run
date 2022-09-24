@@ -1,0 +1,32 @@
+.preference {
+  padding-top: 72px;
+  padding-bottom: 83px;
+  background: #f6f6f6;
+}
+
+.preference-title {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.preference-items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.preference-item {
+  width: 265px;
+  text-align: center;
+}
+
+.preference-item-title {
+  margin-top: 35px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.preference-item-text span {
+  color: #ff0000;
+}

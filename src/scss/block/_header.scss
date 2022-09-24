@@ -1,0 +1,30 @@
+.header {
+  position: absolute;
+  width: 100%;
+  padding-top: 20px;
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-official {
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  span {
+    font-size: 18px;
+  }
+}
+
+.header-contats {
+  text-align: right;
+}
+.header-tel {
+  font-size: 18px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}

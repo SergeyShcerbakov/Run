@@ -1,0 +1,43 @@
+.feedback {
+  padding: 90px 0 60px;
+}
+
+.feedback-title {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.feedback-items {
+  margin-top: 60px;
+}
+
+.feedback-item {
+  display: flex;
+}
+
+.feedback-item-img {
+  margin-right: 60px;
+  border-radius: 50%;
+  width: 170px;
+  height: 170px;
+  object-fit: contain;
+}
+
+.feedback-item-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.feedback-item-descr {
+  font-size: 14px;
+  font-family: "MuseoModerno", medium;
+  color: #646464;
+}
+
+.feedback-text {
+  margin-top: 10px;
+  font-size: 16px;
+}
